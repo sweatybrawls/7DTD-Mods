@@ -8,5 +8,5 @@
   "enableFromVehicles": true,
   "allowLockedContainers": false,
   "allowAllContainers": false,
-  "range": 12
+  "range": 20
 }
